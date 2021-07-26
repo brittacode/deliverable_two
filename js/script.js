@@ -22,6 +22,6 @@ else if (energy === 0) { alert("I'm too tired");}
 happiness = (happiness + 2);
 energy = (energy - 1); }
 
-console.log ("Your pets energy", energy, "your pets happiness is", happiness);
+console.log (petName, " energy is", energy, " and happiness is", happiness);
 
 
